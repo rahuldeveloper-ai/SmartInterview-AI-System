@@ -1,0 +1,8 @@
+
+smartinterview.db
+.smartinterview_secret
+.vscode/.env
+__pycache__/
+*.pyc
+.venv/
+venv/
